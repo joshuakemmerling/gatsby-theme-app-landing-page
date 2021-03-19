@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-theme-app-landing-page",
+  "version": "1.0.0",
+  "description": "A Gatsby theme that quickly creates a one-page website for your mobile app that has already been released.",
+  "keywords": [
+    "landing page",
+    "app landing page",
+    "one page",
+    "gatsby",
+    "theme"
+  ],
+  "main": "index.js",
+  "author": "Joshua Kemmerling (joshuakemmerling.com)",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "classnames": "^2.2.6",
+    "gatsby": "^3.1.1",
+    "gatsby-plugin-postcss": "^4.1.0",
+    "gatsby-plugin-react-helmet": "^4.1.0",
+    "gatsby-source-apple-app-store": "^1.0.2",
+    "html-entities": "^2.1.0",
+    "postcss": "^8.2.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "tailwindcss": "^2.0.4"
+  }
+}
