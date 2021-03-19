@@ -1,6 +1,6 @@
 {
   "name": "gatsby-theme-app-landing-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Gatsby theme that quickly creates a one-page website for your mobile app that has already been released.",
   "keywords": [
     "landing page",
@@ -9,6 +9,14 @@
     "gatsby",
     "theme"
   ],
+  "bugs": {
+    "url": "https://github.com/joshuakemmerling/gatsby-theme-app-landing-page/issues"
+  },
+  "homepage": "https://github.com/joshuakemmerling/gatsby-theme-app-landing-page#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuakemmerling/gatsby-theme-app-landing-page.git"
+  },
   "main": "index.js",
   "author": "Joshua Kemmerling (joshuakemmerling.com)",
   "license": "MIT",
