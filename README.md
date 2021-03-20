@@ -4,7 +4,7 @@ A Gatsby theme that quickly creates a one-page website for your mobile app that 
 
 ## Example
 
-You can see an example of this theme at [here](https://applandingtheme.joshuakemmerling.com).
+You can see an example of this theme in use can be seen at [here](https://sharp-engelbart-a2379e.netlify.app/).
 
 ## Installation
 
