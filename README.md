@@ -1,6 +1,12 @@
-# App Landing Page Gatsby Theme
+<h1 align="center">App Landing Page Gatsby Theme</h1>
 
-A Gatsby theme that quickly creates a one-page website for your mobile app that has already been released.
+<p align="center">A Gatsby theme that quickly creates a one-page website for your mobile app that has already been released.</p>
+
+<h3 align="center">📱 ⚛️ 🚀</h3>
+
+<br />
+
+![Example Image](docs/example.png)
 
 ## Example
 
