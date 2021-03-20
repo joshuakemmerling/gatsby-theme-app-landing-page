@@ -1,3 +1,5 @@
+const tailwindConfig = require('./tailwind.config.js');
+
 module.exports = options => ({
   plugins: [
     {
@@ -10,7 +12,7 @@ module.exports = options => ({
       resolve: 'gatsby-plugin-postcss',
       options: {
         postCssPlugins: [
-          require('tailwindcss')('./tailwind.config.js'),
+          require('tailwindcss')(tailwindConfig),
         ],
       },
     },
