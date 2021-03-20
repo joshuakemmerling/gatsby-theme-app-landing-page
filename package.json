@@ -1,13 +1,12 @@
 {
   "name": "gatsby-theme-app-landing-page",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Gatsby theme that quickly creates a one-page website for your mobile app that has already been released.",
   "keywords": [
-    "landing page",
-    "app landing page",
-    "one page",
     "gatsby",
-    "theme"
+    "gatsby-plugin",
+    "gatsby-theme",
+    "landing-page"
   ],
   "bugs": {
     "url": "https://github.com/joshuakemmerling/gatsby-theme-app-landing-page/issues"
